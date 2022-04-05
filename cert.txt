@@ -1,0 +1,8 @@
+metadatabbsb: XXXX tls.crt:----beginning-----
+some-data
+-----ending----
+tls.key:
+----beginning----
+hdjskksjsjsj
+----ending----
+metadatabbsb: hhsbs
