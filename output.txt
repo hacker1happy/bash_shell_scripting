@@ -1,0 +1,9 @@
+hello output file.
+
+My name is priyanshu.
+
+how are you?? hey.
+by mistake i pressed
+ctrl+c
+now i am pressing ctrl+d.
+bye.!!!!!!!!!!!!!!!
