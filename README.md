@@ -7,7 +7,7 @@
 
 * `abc.sh` file is interpreted.
 
-* Bash_shell = Born Again Shell
+* Bash_shell = Bourne Again SHell (most popular)
 
 * To know what type of shell does our os supports : `cat /etc/shells` (in Ubuntu)
 
